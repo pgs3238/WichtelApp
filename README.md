@@ -5,7 +5,7 @@
 
 ---
 ### Landing Screen
-![Landing Screen](assets/login.png)
+![Landing Screen](assets/login.PNG)
 
 ---
 
