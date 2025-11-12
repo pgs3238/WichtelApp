@@ -108,6 +108,7 @@ function Layout() {
             <br/>
             <div className="ort">
                 <label> Wo findet Secret Santa statt: </label>
+                &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
                 <input
                     type="text"
                     placeholder="Ort"
